@@ -1,0 +1,24 @@
+body{
+    color:dimgray;
+    background-image: url("../img/kaigai.jpg") ;
+}
+
+.contents{
+    background-color:rgba(255,255,255,0.7);
+    display:inline-block;
+    padding:10px;
+}
+
+h1{
+    font-size: 50px;
+    color:#e3acae;
+}
+
+h3{
+    font-size: 24px;
+    display:block;
+}
+
+img{
+    display:block;
+}
